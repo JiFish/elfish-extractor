@@ -1,6 +1,6 @@
 # Elfish Extractor
 
-Elfish Extractor is a tool for extracting frames from `.fsh` and `.mvy` files. It reads the input file, extracts the frames, and saves them as images in the specified output directory.
+Elfish Extractor is a tool for extracting frames from `.fsh`, `.mvy`, `.aqu` and `.isb` files used by the 1994 El-Fish software. It reads the input file, extracts the frames, and saves them as images in the specified output directory.
 
 This is based on the work of Vidar Holen: https://www.vidarholen.net/contents/elfish/
 
