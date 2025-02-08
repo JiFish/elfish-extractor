@@ -6,7 +6,7 @@ This is based on the work of Vidar Holen: https://www.vidarholen.net/contents/el
 
 I ported the java tool to python in the hopes that after doing so, I'd understand enough of the file format to write something that can pack the frames back in to the file. This would be the holy grail for El-Fish: the ability to create new animated objects. The first new feature for El-Fish in over 30 years! However, I wasn't able to crack it. This repo is provided in the hope that somebody else can solve this.
 
-For properity, I included Vidar's information on the file-format at the bottom of this file.
+For posterity, I included Vidar's information on the file-format at the bottom of this file.
 
 ## Requirements
 
