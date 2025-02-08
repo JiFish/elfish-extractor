@@ -1,6 +1,6 @@
 # El-Fish Extractor
 
-Elfish Extractor is a tool for extracting frames from `.fsh`, `.mvy`, `.aqu` and `.isb` files used by the 1994 El-Fish software. It reads the input file, extracts the frames, and saves them as images in the specified output directory.
+El-Fish Extractor is a tool for extracting frames from `.fsh`, `.mvy`, `.aqu` and `.isb` files used by the 1994 El-Fish software. It reads the input file, extracts the frames, and saves them as images in the specified output directory.
 
 This is based on the work of Vidar Holen: https://www.vidarholen.net/contents/elfish/
 
@@ -42,6 +42,10 @@ python extract.py example.fsh output/
 ```
 
 This command will extract frames from `example.fsh` and save them in the `output/` directory.
+
+### Example Output
+
+![Example Output](example_output.jpg)
 
 ## File Format information
 
