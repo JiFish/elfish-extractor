@@ -17,7 +17,7 @@ For posterity, I included Vidar's information on the file-format at the bottom o
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/elfish-extractor.git
+    git clone https://github.com/jifish/elfish-extractor.git
     ```
 2. Install the required dependencies:
     ```sh
